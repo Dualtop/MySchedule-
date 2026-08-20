@@ -1,0 +1,12 @@
+# Personal copies — keep your own data out of the repo
+MySchedule.html
+*.local.html
+*-personal.html
+backup*.json
+export*.json
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+node_modules/
